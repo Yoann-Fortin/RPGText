@@ -1,0 +1,2 @@
+Sur la page d'inscription, il est possible de choisir son peuple, son sexe, son âge, ou alors de choisir entre différents choix random.
+Il est également possible d'avoir accès aux autres pages statiques

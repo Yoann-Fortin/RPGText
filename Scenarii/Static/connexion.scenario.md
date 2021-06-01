@@ -1,0 +1,2 @@
+Depuis la page de connexion, il est possible de renseigner son nom de pseudo, ou son email, ainsi que son mot de passe.
+Il lui est également possible d'indiquer avoir perdu son mot de passe, pour en récupérer un nouveau.

@@ -1,14 +1,6 @@
-Un individu lambda cherche après un jeu de rôle, et arrive sur le site.
+Ben est un rôliste toujours à la recherche d'un nouvel univers de jeu, en surfant sur internet, il finit par découvrir un nouveau jeu de type Jeu de Rôle Textuel, qui semble lui correspondre.
+Il clique donc sur l'onglet du sîte et découvre un premier aperçu avec une brève description du jeu et de ses caractéristiques.
 
-Il veut rapidement comprendre l'univers du jeu, connaître l'histoire de base, découvrir les différentes fonctionnalités, et seulement après, s'il semble séduit, ira se renseigner plus en avant sur les mécaniques du jeu.
+Sur la page d'accueil, il découvre certaines statistiques du jeu, qui lui permettend de comprendre que c'est un jeu avec un cadre de fantasy médieval, trois peuples distincts, et possibilité de jouer des enfants, comme des adultes voir des personnes âgées.
 
-Il comprend qu'il existe 3 peuples différents, que sont les nains, les elfes, et les humains, qui ont forcément des caractéristiques différentes, et également des compétences avec forces et faiblesses différentes.
-
-Il découvre aussi qu'il existe 3 tranches d'âge différents, les enfants|adolescents, les adultes, et les vieillards. Suivant l'âge, les bonus et malus sont différents, les possibilités de jeu également.
-
-Il est possible de rester un simple paysan, ou artisan, voir de s'impliquer dans la vie du jeu, avec donc des postes politiques, ou au clergé, ou avec les guildes. Plus on monte dans l'arbre de compétence, plus on a de pouvoirs sur le jeu et les autres joueurs.
-
-Il est donc possible d'avoir accès à plus de détails depuis la page principale, mais également des extraits de role play écrit, et des informations générales comme le nombre de joueurs inscrits, le nombre de joueurs actifs depuis les 30 derniers jours, le pourcentage entre les différents peuples, sexe, et tranches d'âge.
-
-Enfin il est possible d'avoir accès aux mentions légales, aux règles, au forum public, et surtout accès à l'inscription ou à la connexion.
-
+Sa mère Jeanine veut vérifier que c'est bien de son âge, elle lui demande donc de cliquer sur le lien des mentions légales pour les parcourir et vérifier que c'est bien de son âge.

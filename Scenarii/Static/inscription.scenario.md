@@ -1,2 +1,7 @@
-Sur la page d'inscription, il est possible de choisir son peuple, son sexe, son âge, ou alors de choisir entre différents choix random.
-Il est également possible d'avoir accès aux autres pages statiques
+Ben se retrouve désormais sur la page d'inscription, des images des différents avatars possibles défilent de façon aléatoire, mais à interval régulier. Il constate qu'il lui est possible de choisir le peuple qu'il souhaite, et les images défilantes ne correspondent plus qu'à son choix. Il en va de même après le choix de l'âge et du sexe de son personnage. Pour faire le meilleur choix possible, il décide d'aller consulter le Codex, qui est un guide du jeu.
+
+Après avoir consulté le Codex, il décide de laisser le jeu choisir pour lui, et décide de laisser tout les choix en random. Il valide son choix et se retrouve sur une nouvelle page lui demandant de saisir de nouvelles informations, comme son choix de pseudo, son email, mais aussi son mot de passe. 
+
+Une fois toutes les informations validées, il arrive sur une page lui rappelant l'ensemble de ses choix, des informations saisies avec le mot de passe caché comme depuis la page précédente, et lui demandant de valider s'il est d'accord avec tout ce qu'il a renseigné. Il lui est possible de revenir en arrière pour modifier ce qui ne lui convient pas, ainsi que de vérifier son mot de passe en cliquant sur une icône.
+
+Une fois le choix validé, il est redirigé vers la page de connexion.

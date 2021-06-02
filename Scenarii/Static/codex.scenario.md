@@ -1,13 +1,1 @@
-Le codex est l'ensemble des spécificités du jeu, qui explique l'ensemble des fonctionnalités possibles, regroupés sous différentes thématiques.
--Les peuples
--Les tranches d'âges
--Les métiers
---Paysans
----Légumes
----Céréales
---Eleveurs
----Poulet
----Vaches
---Artisans
----Métiers de bouche
-etc...
+Ben parcourt le codex pour en apprendre plus sur les différentes mécaniques du jeu, sur la première page, un bref résumé donne les indications générales, et différents liens permettent d'aller sur des pages spécifiques du Codex. Après l'avoir survolé, il décide d'aller s'enregistrer sur le jeu et cliques sur le lien correspondant.

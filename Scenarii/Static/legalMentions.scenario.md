@@ -1,1 +1,1 @@
-Depuis cette page, il est posible de lire l'intégralité des mentions légales, page obligatoire, il est également possible depuis cette page de retourner sur la page d'accueil, d'avoir accès au codex, à l'inscription ou à la connexion, et enfin au forum public.
+Jeanine vérifie les différentes conditions d'utilisations, et constate que son fils Ben a bien l'âge requis. Elle consent à le laisser jouer, et cliques sur le bouton d'inscription.

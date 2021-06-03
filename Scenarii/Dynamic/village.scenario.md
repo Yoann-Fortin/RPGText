@@ -1,1 +1,0 @@
-Ben se retrouve sur la page principale du village, étant nouveau sur le jeu, un didacticiel pour lui présenter les diverses possibilités de base lui est présenté, sous formes de quêtes qui lui rapporteront divers items qui lui permettront de bien débuter,et de lui faire gagner ses premiers niveaux.
